@@ -1,0 +1,53 @@
+body{background-color: #B2AAA0}
+
+.asd {
+	border: 3px #000433;
+	background-color: #00CBFF;
+	color: white; 
+	display: inline-block;
+	padding:  0.5rem 1rem;
+	margin: 0.2rem;
+	border-radius: 2rem;
+	transition: 0.3s;
+	min-width: max-content;
+	user-select: none;
+	text-decoration: none;;
+
+ }	
+.kép1 {
+
+	max-width: 30rem;
+
+}
+.header {
+
+	border: solid black 2px;
+}
+
+.kép2 {
+
+	max-width: 14rem;
+}
+
+.kép3 {
+
+	max-width: 14rem;
+}
+.kép4 {
+
+	max-width: 28rem;
+}
+.kép5 {
+
+	max-width: 28rem;
+}
+.kép6 {
+
+	max-width: 40rem;
+}
+
+
+
+
+
+
